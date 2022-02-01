@@ -1,0 +1,4 @@
+C:/Users/Meresse/Documents/Clion/calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Meresse/Documents/Clion/calculator/cmake-build-debug/CMakeFiles/calculator.dir
+C:/Users/Meresse/Documents/Clion/calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Meresse/Documents/Clion/calculator/cmake-build-debug/CMakeFiles/calculator_autogen.dir
